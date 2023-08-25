@@ -54,6 +54,7 @@ h1{
     row-gap: 10px;
     column-gap: 30px;
     flex-wrap: wrap;
+    min-width: 100%;
 }
 .rodape .sobre{
     padding: 50px;
